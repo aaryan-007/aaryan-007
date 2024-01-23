@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aaryan Duggal
 =====================================================================================================================================
 
-Learning Web Development
+Learning AI/ML
 ------------------------
 
 I am a computer engineering undergrad from Thapar Institute of Engineering and Technology, Patiala. I am a passionate learner with an inbuilt drive to code and become proficient in new IT technologies. I will be bringing forth motivated attitude and a variety of powerful skills as I am adept in various programming languages, office programs and social media platforms.
@@ -9,7 +9,7 @@ I am a computer engineering undergrad from Thapar Institute of Engineering and T
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [MyPortfolio](http://aaryan-007.github.io/portfolio/)
 * ✉️  You can contact me at [aaryanduggal05@gmail.com](mailto:aaryanduggal05@gmail.com)
-* 🧠  I'm learning Backend Development
+* 🧠  I'm learning AI and Machine Learning Technologies
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
